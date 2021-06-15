@@ -1,0 +1,35 @@
+body{
+ background-image: url("https://ifh.cc/g/a6BM3Z.png");
+ background-position: bottom;
+ background-repeat: no-repeat;
+ background-color: #ECF0F1;
+ width: 90%;
+ height: 1000px;
+ margin: auto;
+}
+
+li{
+	list-style: none;
+  	font : 25px Malgun Gothic, sans-serif;
+	line-height: 200%;
+}
+
+.box1{
+  position: relative;
+  margin: auto;
+  width: 800px;
+  height: 500px;
+  background-color: #ffffff;
+  padding:1em; 
+  text-align: center;
+}
+
+.button{
+	margin-top: 30px;
+	width : 200px;
+	height : 60px;
+	background-color:#A6ACAF ;
+	font : 25px Malgun Gothic, sans-serif;
+	border-style: none;
+}
+
